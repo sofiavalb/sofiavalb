@@ -2,7 +2,7 @@
 ## Readme Script 
 
 
-# Hi there 👋 Sofia here!
+# Sofia Valbuena
 
 
 I am a hardworking and organized computer scientist with an economist mindset. My interests lie at the intersection of macroeconomics and analyzing data in software projects. I am currently looking for a software engineering internship for Summer 2024.
