@@ -35,13 +35,7 @@ I am a hardworking and organized computer scientist with an economist mindset. M
 
 
 ### Tools and Environments 🔧
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/xcode.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code>
-<p>
-<img src="https://img.shields.io/badge/MacOS-organge?logo=MacOS">
-<img src="https://img.shields.io/badge/Linux-organge?logo=Linux">
-<img src="https://img.shields.io/badge/Chrome-organge?logo=Chrome">
-<img src="https://img.shields.io/badge/Editor-VSCode-green?logo=Visual%20Studio%20Code">
-<img src="https://img.shields.io/badge/Editor-XCode-green?logo=X%20Code">
-</a>
-</p>
+- XCode
+- Visual Studio Code
+- MacOS
+- Linux
