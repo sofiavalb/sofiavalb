@@ -29,11 +29,12 @@ I am a hardworking and organized computer scientist with an economist mindset. M
 - AWS
 
 
-### Interests 👨‍💻
-- Theory of Computation
-- Secure, Trustworthy, & Reliable Systems
-- Networking, Operating Systems, & Distributed Systems
-- Data Structures & Algorithms
+### Recent Projects 👨‍💻
+- Data & Memory Cache Simulator
+- Pipelined Datapath Simulator
+- Optimal TSP & Knapsack Path
+- SQL Command Line Interface
+- PQ Streaming Program
 
 
 ### Tools and Environments 🔧
