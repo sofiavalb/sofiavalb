@@ -30,6 +30,10 @@ I am a hardworking and organized computer scientist with an economist mindset. M
 
 
 ### Recent Projects 👨‍💻
+- Instagram Clone
+  - Clientside Dynamic Pages
+  - Serverside Dynamic Pages
+  - Templated Static Site Generator
 - Data & Memory Cache Simulator
 - Pipelined Datapath Simulator
 - Optimal TSP & Knapsack Path
