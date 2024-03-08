@@ -5,7 +5,7 @@
 # Sofia Valbuena
 
 <h3>About Me</h3>
-My academic passions lie at the intersection of macroeconomics and software development. I study Computer Science because I love software design and the endless possibilities for innovation; I am currently taking Web Systems & Software Engineering classes where I am implementing projects using HTML, Python, JavaScript, Flask, React, AWS, SQL, and more. I study Economics because it gives me the tools to understand real-world financial decisions as well as to improve my financial literacy. When I am not doing schoolwork, I am applying my work ethic on the ice. I am a student-athlete on the synchronized skating team and a two-time Midwestern and Pacific Coast Synchronized Skating Sectional medalist.
+My academic passions lie at the intersection of macroeconomics and software development. I study Computer Science because I love software design and the endless possibilities for innovation; I am currently taking Web Systems & Software Engineering classes. I study Economics because it gives me the tools to understand real-world financial decisions as well as to improve my financial literacy. When I am not doing schoolwork, I am applying my work ethic on the ice. I am a student-athlete on the synchronized skating team and a two-time Midwestern and Pacific Coast Synchronized Skating Sectional medalist.
 </p>
 
 <p>
