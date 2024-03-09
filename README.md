@@ -18,17 +18,6 @@ I am a Computer Science and Economics double major at the University of Michigan
 </p>
 
 
-### Recent Projects 👨‍💻
-- Instagram Clone
-  - Client-side Dynamic Pages
-  - Server-side Dynamic Pages
-  - Templated Static Site Generator
-- Data & Memory Cache Simulator
-- Pipelined Datapath Simulator
-- Optimal TSP & Knapsack Path
-- SQL Command Line Interface
-- PQ Streaming Program
-
 ### Technical Skills :desktop_computer: 
 - C/C++
 - Python
@@ -40,6 +29,17 @@ I am a Computer Science and Economics double major at the University of Michigan
 - SQL
 - AWS
 - Excel
+
+### Recent Projects 👨‍💻
+- Instagram Clone
+  - Client-side Dynamic Pages
+  - Server-side Dynamic Pages
+  - Templated Static Site Generator
+- Data & Memory Cache Simulator
+- Pipelined Datapath Simulator
+- Optimal TSP & Knapsack Path
+- SQL Command Line Interface
+- PQ Streaming Program
 
 
 ### Tools and Environments 🔧
