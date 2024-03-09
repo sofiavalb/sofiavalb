@@ -9,7 +9,7 @@ I am a Computer Science and Economics double major at the University of Michigan
 <a href="https://www.linkedin.com/in/sofiavalb/">
 <img src="https://img.shields.io/badge/LinkedIn-sofiavalb-blue">
 </a>
-  
+ 
 <a href="https://github.com/sofiavalb/insta485">
 <img src="https://img.shields.io/badge/Most%20Recent%20Project-8A2BE2">
 </a>
