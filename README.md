@@ -1,7 +1,3 @@
-
-## Readme Script 
-
-
 # Sofia Valbuena
 
 <h3>About Me</h3>
@@ -25,12 +21,13 @@ My academic passions lie at the intersection of macroeconomics and software deve
 - CSS
 - SQL
 - AWS
+- Excel
 
 
 ### Recent Projects 👨‍💻
 - Instagram Clone
-  - Clientside Dynamic Pages
-  - Serverside Dynamic Pages
+  - Client-side Dynamic Pages
+  - Server-side Dynamic Pages
   - Templated Static Site Generator
 - Data & Memory Cache Simulator
 - Pipelined Datapath Simulator
