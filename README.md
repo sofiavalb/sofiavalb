@@ -4,6 +4,7 @@
 I am a Computer Science and Economics double major at the University of Michigan. My academic passions lie at the intersection of macroeconomics and software development. I study Computer Science because I love software design and the endless possibilities for innovation; I am currently taking Web Systems & Software Engineering classes. I study Economics because it gives me the tools to understand real-world financial decisions as well as to improve my financial literacy. When I am not doing schoolwork, I am applying my work ethic on the ice. I am a student-athlete on the synchronized skating team and a two-time Midwestern and Pacific Coast Synchronized Skating Sectional medalist.
 </p>
 
+<p><a href="sofiavalb03@gmail.com" Email</p>
 
 <p>
 <a href="https://www.linkedin.com/in/sofiavalb/">
