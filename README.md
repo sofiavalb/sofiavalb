@@ -13,7 +13,7 @@ I am a Computer Science and Economics double major at the University of Michigan
 
 <p>
 <a href="https://github.com/sofiavalb/insta485">
-<img src="Most Recent Project">
+<img src="https://img.shields.io/badge/Most%20Recent%20Project-8A2BE2">
 </a>
 </p>
 
