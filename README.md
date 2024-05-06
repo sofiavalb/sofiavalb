@@ -1,7 +1,7 @@
 # Sofia Valbuena
 
 <h3>About Me 💁‍♀️</h3>
-I am a Computer Science and Economics double major at the University of Michigan and an incoming Software Engineering Intern at Enova International. My primary passion is coding and macroeconomics also fascinates me; I am pursuing a career in FinTech. I am a student-athlete on the University of Michigan Synchronized Skating Team and a two-time Midwestern and Pacific Coast Synchro Sectional medalist.
+I am a Computer Science and Economics double major at the University of Michigan and a Software Engineering Intern at Enova International. My primary passion is coding and macroeconomics also fascinates me; I am pursuing a career in Fintech. I am a student-athlete on the University of Michigan Synchronized Skating Team and a two-time Midwestern and Pacific Coast Synchro Sectional medalist.
 </p>
 
 <p>
@@ -35,6 +35,7 @@ I am a Computer Science and Economics double major at the University of Michigan
 
 ### Recent Projects 👨‍💻
 - Google Clone
+- MapReduce
 - Instagram Clone
   - Client-side Dynamic Pages
   - Server-side Dynamic Pages
