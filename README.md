@@ -1,10 +1,12 @@
 # Sofia Valbuena
 
 <h3>About Me 💁‍♀️</h3>
+
 I am a Computer Science and Economics double major at the University of Michigan and a Software Engineering Intern at Enova International. My primary passion is coding and macroeconomics also fascinates me; I am pursuing a career in Fintech. I am a student-athlete on the University of Michigan Synchronized Skating Team and a two-time Midwestern and Pacific Coast Synchro Sectional medalist.
-</p>
+
 
 <p>
+  <img src="MBWHeadshots23.jpg" alt="headshot" width="200">
   <a href="sofiavalb03@gmail.com" Email/a>
 </p>
 
