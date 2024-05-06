@@ -23,6 +23,11 @@ I am a Computer Science and Economics double major at the University of Michigan
 </a>
 </p>
 
+<p>
+<a href="https://github.com/sofiavalb/ask485">
+<img src="https://img.shields.io/badge/Google%20Clone%20Project-8A2BE2">
+</a>
+</p>
 
 ### Technical Skills :desktop_computer: 
 - C/C++
