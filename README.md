@@ -4,7 +4,7 @@
 
 <img src="MBWHeadshots23.jpg" alt="headshot" align="right" width="200">
 
-I am a Computer Science and Economics double major at the University of Michigan and a Software Engineering Intern at Enova International. My primary passion is coding and macroeconomics also fascinates me; I am pursuing a career in Fintech. I am a student-athlete on the University of Michigan Synchronized Skating Team and a two-time Midwestern and Pacific Coast Synchro Sectional medalist.
+I am a Computer Science and Economics double major at the University of Michigan and a Software Engineering Intern at Enova International. My primary passions are coding and macroeconomics; I am pursuing a career in fintech. I am a University of Michigan Synchronized Skating Team student-athlete and a two-time Midwestern and Pacific Coast Synchro Sectional medalist.
 
 
 <p>
