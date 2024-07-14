@@ -36,9 +36,9 @@ I am a Computer Science and Economics double major at the University of Michigan
 
 <h2>Recent Projects 🖥️</h2>
 <h4>Application Stage Synchronization</h4>
-Implemented a pipeline to synchronize loan application stage changes between Salesforce and Komodo, an internal software
-Utilized AWS SQS, AWS EventBridge, and AWS Lambda through Terraform along with API endpoints to connect software to services, using Go as the primary language
-Worked as a member of the OnDeck team to improve application processing software for small business loans at Enova 
+- Implemented a pipeline to synchronize loan application stage changes between Salesforce and Komodo, an internal software
+- Utilized AWS SQS, AWS EventBridge, and AWS Lambda through Terraform along with API endpoints to connect software to services, using Go as the primary language
+- Worked as a member of the OnDeck team to improve application processing software for small business loans at Enova 
 
 <h4>Google Clone</h4>
 Built a search engine similar to Google using a service-oriented architecture to scale dynamic pages and web search
