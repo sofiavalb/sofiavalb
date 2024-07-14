@@ -1,4 +1,4 @@
-# Sofia Valbuena
+<h1>Sofia Valbuena</h1>
 
 <h2>About Me 💁‍♀️</h2>
 
@@ -29,12 +29,12 @@ I am a Computer Science and Economics double major at the University of Michigan
 </a>
 </p>
 
-## Skills 👨‍💻
+<h2>Skills 👨‍💻</h2>
 <p><h4>Languages & Frameworks</h4> C/C++, Python, Go, JavaScript, SQL, HTML, CSS, React.js, Flask, R, STATA</p>
 <p><h4>Software</h4> AWS EC2, AWS Lambda, AWS EventBridge, AWS SQS, Terraform, Excel</p>
 <p><h4>Non-technical Skills</h4> Fluent in English and Spanish</p>
 
-## Recent Projects 🔧
+<h2>Recent Projects 🖥️</h2>
 <h4>Application Stage Synchronization</h4>
 Implemented a pipeline to synchronize loan application stage changes between Salesforce and Komodo, an internal software
 Utilized AWS SQS, AWS EventBridge, and AWS Lambda through Terraform along with API endpoints to connect software to services, using Go as the primary language
