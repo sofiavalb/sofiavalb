@@ -29,36 +29,43 @@ I am a Computer Science and Economics double major at the University of Michigan
 </a>
 </p>
 
-### Technical Skills :desktop_computer: 
-- C/C++
-- Python
-  - Flask
-- JavaScript
-  - React
-- Go
-- HTML
-- CSS
-- SQL
-- Excel
-- R
-- STATA
+### Skills 👨‍💻
+<p><h6>Languages & Frameworks</h6> C/C++, Python, Go, JavaScript, SQL, HTML, CSS, React.js, Flask, R, STATA</p>
+<p><h6>Software</h6> AWS EC2, AWS Lambda, AWS EventBridge, AWS SQS, Terraform, Excel</p>
+<p><h6>Non-technical Skills</h6> Fluent in English and Spanish</p>
 
 ### Recent Projects 🔧
-- Application Stage Synchronization for Enova International
-- Google Clone
-- MapReduce
-- Instagram Clone
-  - Client-side Dynamic Pages
-  - Server-side Dynamic Pages
-  - Templated Static Site Generator
-- Data & Memory Cache Simulator
-- SQL Command Line Interface
-- Machine Learning Forum Organizer
-- Computer Vision
+<h6>Application Stage Synchronization</h6>
+Implemented a pipeline to synchronize loan application stage changes between Salesforce and Komodo, an internal software
+Utilized AWS SQS, AWS EventBridge, and AWS Lambda through Terraform along with API endpoints to connect software to services, using Go as the primary language
+Worked as a member of the OnDeck team to improve application processing software for small business loans at Enova 
 
+<h6>Google Clone</h6>
+Built a search engine similar to Google using a service-oriented architecture to scale dynamic pages and web search
+Used information retrieval concepts such as text analysis (tf-idf) and link analysis (PageRank) along with parallel data processing with MapReduce    
 
-### Software 👨‍💻
-- AWS
-  - EC2, Lambda, EventBridge, SQS
-- Terraform
-- Excel
+<h6>MapReduce</h6>
+Implemented a MapReduce framework in Python inspired by Google’s original MapReduce paper
+The framework executes MapReduce programs with distributed processing on a cluster of computers
+Used OS-provided concurrency facilities with threads and processes, and networking with sockets
+
+<h6>Instagram Clone</h6>
+Utilized server-side and client-side dynamic pages to develop an Instagram clone; deployed using AWS EC2
+Front end written in HTML, CSS, Jinja, and JavaScript using React
+Back end written in Python using Flask; set cookies to manage Flask sessions
+Built a SQL database and a REST API to hold user data
+
+<h6>Data & Memory Cache Simulator</h6>
+Simulated a CPU cache and integrated it into a behavioral simulator (previous project)
+The program services instruction and data accesses by transferring data to/from memory as needed 
+
+<h6>SQL Command Line Interface</h6>
+Built a Command Line Interface, using a hash map, that uses SQL to retrieve and group data
+Evaluated the runtime and storage tradeoffs for storing and accessing data contained in multiple data structures
+
+<h6>Machine Learning Forum Organizer</h6>
+Wrote an intelligent program that can classify posts on a Q&A forum according to topic
+Automatically identifies the subject of posts using Natural Language Processing and Machine Learning
+
+<h6>Computer Vision</h6>
+Built a content-aware image resizing program using a seam-carving algorithm
