@@ -35,13 +35,15 @@ I am a Computer Science and Economics double major at the University of Michigan
   - Flask
 - JavaScript
   - React
+- Go
 - HTML
 - CSS
 - SQL
-- AWS
 - Excel
+- R
+- STATA
 
-### Recent Projects 👨‍💻
+### Recent Projects 🔧
 - Google Clone
 - MapReduce
 - Instagram Clone
@@ -49,14 +51,13 @@ I am a Computer Science and Economics double major at the University of Michigan
   - Server-side Dynamic Pages
   - Templated Static Site Generator
 - Data & Memory Cache Simulator
-- Pipelined Datapath Simulator
-- Optimal TSP & Knapsack Path
 - SQL Command Line Interface
-- PQ Streaming Program
+- Machine Learning Forum Organizer
+- Computer Vision
 
 
-### Tools and Environments 🔧
-- XCode
-- Visual Studio Code
-- MacOS
-- Linux
+### Software 👨‍💻
+- AWS
+  - EC2, Lambda, EventBridge, SQS
+- Terraform
+- Excel
