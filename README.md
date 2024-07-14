@@ -44,6 +44,7 @@ I am a Computer Science and Economics double major at the University of Michigan
 - STATA
 
 ### Recent Projects 🔧
+- Application Stage Synchronization for Enova International
 - Google Clone
 - MapReduce
 - Instagram Clone
