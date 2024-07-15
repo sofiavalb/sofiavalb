@@ -16,18 +16,6 @@ I am a Computer Science and Economics double major at the University of Michigan
 </a>
 </p>
 
-<p>
-<a href="https://github.com/sofiavalb/insta485">
-<img src="https://img.shields.io/badge/Instagram%20Clone%20Project-8A2BE2">
-</a>
-</p>
-
-<p>
-<a href="https://github.com/sofiavalb/ask485">
-<img src="https://img.shields.io/badge/Google%20Clone%20Project-8A2BE2">
-</a>
-</p>
-
 ## Skills 👨‍💻
 <p><h4>Languages & Frameworks</h4> C/C++, Python, Go, JavaScript, SQL, HTML, CSS, React.js, Flask, R, STATA</p>
 <p><h4>Software</h4> AWS EC2, AWS Lambda, AWS EventBridge, AWS SQS, Terraform, Excel</p>
@@ -40,6 +28,11 @@ I am a Computer Science and Economics double major at the University of Michigan
 - Worked as a member of the OnDeck team to improve application processing software for small business loans at Enova
 
 #### Google Clone
+<p>
+<a href="https://github.com/sofiavalb/ask485">
+<img src="https://img.shields.io/badge/Google%20Clone%20Project-8A2BE2">
+</a>
+</p>
 - Built a search engine similar to Google using a service-oriented architecture to scale dynamic pages and web search
 - Used information retrieval concepts such as text analysis (tf-idf) and link analysis (PageRank) along with parallel data processing with MapReduce    
 
@@ -49,6 +42,11 @@ I am a Computer Science and Economics double major at the University of Michigan
 - Used OS-provided concurrency facilities with threads and processes, and networking with sockets
 
 #### Instagram Clone
+<p>
+<a href="https://github.com/sofiavalb/insta485">
+<img src="https://img.shields.io/badge/Instagram%20Clone%20Project-8A2BE2">
+</a>
+</p>
 - Utilized server-side and client-side dynamic pages to develop an Instagram clone; deployed using AWS EC2
 - Front end written in HTML, CSS, Jinja, and JavaScript using React
 - Back end written in Python using Flask; set cookies to manage Flask sessions
