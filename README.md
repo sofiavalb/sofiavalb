@@ -1,4 +1,4 @@
-<h1>Sofia Valbuena</h1>
+# Sofia Valbuena
 
 <h2>About Me 💁‍♀️</h2>
 
