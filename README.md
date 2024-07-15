@@ -33,6 +33,7 @@ I am a Computer Science and Economics double major at the University of Michigan
 <img src="https://img.shields.io/badge/Google%20Clone%20Project-8A2BE2">
 </a>
 </p>
+
 - Built a search engine similar to Google using a service-oriented architecture to scale dynamic pages and web search
 - Used information retrieval concepts such as text analysis (tf-idf) and link analysis (PageRank) along with parallel data processing with MapReduce    
 
@@ -47,6 +48,7 @@ I am a Computer Science and Economics double major at the University of Michigan
 <img src="https://img.shields.io/badge/Instagram%20Clone%20Project-8A2BE2">
 </a>
 </p>
+
 - Utilized server-side and client-side dynamic pages to develop an Instagram clone; deployed using AWS EC2
 - Front end written in HTML, CSS, Jinja, and JavaScript using React
 - Back end written in Python using Flask; set cookies to manage Flask sessions
