@@ -18,7 +18,7 @@ I am a Computer Science and Economics double major at the University of Michigan
 
 ## Skills 👨‍💻
 <p><h4>Languages & Frameworks</h4> C/C++, Python, Go, JavaScript, SQL, HTML, CSS, React.js, Flask, R, STATA</p>
-<p><h4>Software</h4> AWS EC2, AWS Lambda, AWS EventBridge, AWS SQS, Terraform, Excel</p>
+<p><h4>Software</h4> AWS EC2, AWS Lambda, AWS EventBridge, AWS SQS, AWS CLI, Terraform, Excel</p>
 <p><h4>Non-technical Skills</h4> Fluent in English and Spanish</p>
 
 ## Recent Projects 🖥️
