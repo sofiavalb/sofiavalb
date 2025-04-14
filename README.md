@@ -2,8 +2,6 @@
 
 ## About Me 💁‍♀️
 
-<img src="MBWHeadshots23_cropped.jpg" alt="headshot" align="right" width="150">
-
 I am a Computer Science and Economics double major at the University of Michigan and a Software Engineering Intern at Enova International. My primary passions are coding and macroeconomics; I am pursuing a career in fintech. I am a University of Michigan Synchronized Skating Team student-athlete and a two-time Midwestern and Pacific Coast Synchro Sectional medalist.
 
 <p>
